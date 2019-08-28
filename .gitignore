@@ -5,3 +5,5 @@
 # un-ignore .config subtree
 !/.config/
 !.gitignore
+!.bash_profile
+!.bashrc
