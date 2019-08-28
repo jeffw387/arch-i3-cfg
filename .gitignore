@@ -1,0 +1,7 @@
+# Ignore everything in root
+/*
+# except theme-setup
+!./theme-setup.sh
+# un-ignore .config subtree
+!/.config/
+!.gitignore

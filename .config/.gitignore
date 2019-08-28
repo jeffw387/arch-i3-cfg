@@ -1,0 +1,7 @@
+# Ignore root
+/*
+# Un-ignore subtrees
+!/alacritty/
+!/i3/
+!/ranger/
+!.gitignore
