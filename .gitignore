@@ -1,6 +1,7 @@
 # Ignore everything in root
 /*
 # except theme-setup
+!create-user.sh
 !package-install.sh
 !yay-install.sh
 # un-ignore .config subtree
