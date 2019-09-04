@@ -10,3 +10,4 @@ alias ll='ls -lA'
 alias vim='nvim'
 PS1='[\u@\h \W]\$ '
 
+PATH=$PATH:/home/jeff/.local/bin
